@@ -7,7 +7,7 @@ Marta promo gen is a powerful promos generator for discord that uses OperaGX vul
 ## Features
 
 - Supports the use of proxies to hide your IP address and enhance anonymity.
-- To make the programme fast
+- Threads to make the programme fast
 - Sexy UI and easy to use
 - Love 🩷
 
