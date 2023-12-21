@@ -1,0 +1,9 @@
+pystyle
+pypresence
+requests
+threading
+colorama
+random
+ctypes
+time
+os
